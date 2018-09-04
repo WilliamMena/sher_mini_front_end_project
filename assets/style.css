@@ -9,7 +9,9 @@ html {
   height: 16px;
 }
 
-
+svg {
+  fill: red;
+}
 
 .btn-circle {
   width: 30px;
