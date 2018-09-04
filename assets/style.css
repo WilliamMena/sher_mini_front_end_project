@@ -1,0 +1,53 @@
+html {
+  background: #7A47E0;
+}
+
+.iconic-icons {
+  max-width: 100%;
+  min-width: 25%;
+  width: 16px;
+  height: 16px;
+}
+
+
+
+.btn-circle {
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  padding: 6px 0;
+  font-size: 12px;
+  line-height: 1.428571429;
+  border-radius: 15px;
+}
+.btn-circle.btn-lg {
+  width: 50px;
+  height: 50px;
+  padding: 10px 16px;
+  font-size: 18px;
+  line-height: 1.33;
+  border-radius: 25px;
+}
+.btn-circle.btn-xl {
+  width: 70px;
+  height: 70px;
+  padding: 10px 16px;
+  font-size: 24px;
+  line-height: 1.33;
+  border-radius: 35px;
+}
+
+#or-less-text, .bg-success {
+  color: rgba(180, 232, 178, 1);
+}
+
+.service-images {
+  height: 130px;
+  width: 75px;
+}
+
+@media screen and (min-width: 768px) {
+  #intro-text {
+    font-size: 5vw;
+  }
+}
