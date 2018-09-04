@@ -39,7 +39,7 @@ html {
   border-radius: 35px;
 }
 
-#or-less-text, {
+#or-less-text {
   color: rgba(180, 232, 178, 1);
 }
 
@@ -54,6 +54,6 @@ a {
 
 @media screen and (min-width: 768px) {
   #intro-text {
-    font-size: 5vw;
+    font-size: 4vw;
   }
 }
