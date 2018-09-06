@@ -12,6 +12,10 @@ html {
   color: white;
 }
 
+.btn:hover {
+  opacity: .5;
+}
+
 .btn-circle {
   width: 30px;
   height: 30px;
