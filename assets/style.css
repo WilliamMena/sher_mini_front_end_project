@@ -10,7 +10,13 @@ html {
 }
 
 .brand {
-  opacity: 0.5
+  opacity: 0.5;
+  color: black;
+  font-size: 22px;
+}
+
+.brand:hover {
+  color: white;
 }
 
 .btn-circle {
